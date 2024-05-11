@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "ALGER";
+  src: url("./fonts/ALGER.ttf"); /* IE9 Compat Modes */
+}
+
+p {
+  font-family: "ALGER";
+}
+
+/*? incorporate a custom font using @fontface property  */
